@@ -1,8 +1,8 @@
 # Documentation
 Assignment Project
 ----
-Create a Spring Boot REST app that exposes endpoints
-application port is running on 8888
+Create a Spring Boot REST app that exposes endpoints.
+Application port is running on 8888
 base path: http://localhost:8888/
 
 Im Memory Database : H2
